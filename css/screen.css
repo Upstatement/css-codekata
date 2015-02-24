@@ -277,5 +277,14 @@ button {
 }
 
 body {
-  background-color: #000;
+  background-color: #e0e3c6;
+}
+
+.bar {
+  display: block;
+  background-color: #010204;
+  margin-right: 10px;
+  float: left;
+  height: 100vh;
+  width: 10vw;
 }
